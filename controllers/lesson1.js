@@ -6,7 +6,7 @@ const emilyRoute = (req, res) => {
 };
 
 const hannahRoute = (req, res) => {
-  res.send('Hannah Birch');
+  res.send('Testing for class today');
 };
 
 module.exports = {
